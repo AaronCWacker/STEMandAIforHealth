@@ -180,3 +180,70 @@ Nearly half of Americans surveyed reported recent symptoms of an anxiety or depr
 Anxiety and depression have increased for older adults since the start of the pandemic.  Elders cope with uncertainty better than younger generations, however depression and anxiety have negative impacts on quality of life, function and general health.  Due to medical vulnerability elders face isolation with sacrifices and pain to endure including loneliness.  At least one in four older adults experience mental disorders such as depression, anxiety and dementia.  Number of seniors is expected to double by 2030.  Isolation, affective and anxiety disorders, dementia, and psychosis are common as well as sleep disorders.  Behavioral disorders, cognitive deterioration or confusion states as a result of physical disorders and surgical interventions occur for elderly.  Health care providers including those in primary care can play a key role in promoting mental health by working with mental health professionals, local governments, civil society organizations, families and communities to provide comprehensive mental health care and supportive environments.  Elderly should be encouraged to participate in communities and society while policy makers should ensure health concerns are addressed in national health planning and policies.  
 
 
+
+
+# Data Visualization - AI UI UX Examples
+
+## What is Data Visualization?
+
+Data visualization is representation of data using graphics, charts, plots, infographics, animations, and even 3D.  These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.  As assistive AI and tools these offer solutions for those swamped by information.  Patterns and tools allow us a better way to see it all and understand it, visually.
+
+With the web and connected programs and tools backed by AI we find visualization helps with seeing and absorbing information with well-designed, colorful and useful displays.  This makes diagrams, maps and charts fun, avoiding hard to consume facts and statistics.  Visualization shows relationships between facts,  context and connections making information understandable and beautiful.
+
+## Visualization Types:
+1. __Live Real Time Visualization__
+   1. Gradio Live Mode
+   2. Streamlit Live Mode
+2. __3D Visualization and Simulation__
+   1. 3D and 3D Animation Models
+   2. Interactive Playable Models
+3. __Graphical, Animations, and Image Visualization__
+   1. Emojis and Animations
+   2. Data Driven AI Visualization
+4. __Language Visualization__
+   1. Visual Annotation
+   2. Relationship Mapping 
+
+# Live Real Time and Time-Series Visualization
+1. __ASR__ https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. __Dataset__ https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+3. __Webcam__ https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+
+# 3D, AR, VR, Gamification and Simulation Visualization
+1. __Models__ https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+2. __Playcanvas__ https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+3. __Playcanvas__ https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
+4. __Playcanvas__ https://huggingface.co/spaces/awacke1/SimPhysics
+5. __Deep RL__ https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+6. __Aframe AR VR__ https://huggingface.co/spaces/awacke1/HTML5-AR-VR
+7. __Taxonomies__ https://huggingface.co/spaces/awacke1/Memory_Attention
+8. __Timeseries__ https://huggingface.co/spaces/awacke1/TimeSeries
+9. __3D Compounds__ https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+
+# Graphical and Image Data Visualization
+1. __GraphViz PyDeck__ https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
+2. __XAI__ https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+3. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+4. __SPACY__ https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
+5. __Mermaid__ https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+6. __GraphViz__ https://huggingface.co/spaces/awacke1/CPVisGraph
+7. __Icons__ https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+8. __Lottie Animation__ https://huggingface.co/spaces/awacke1/AnimationAI
+9. __Emojis__ https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
+
+# Language Model Visualization
+1. __NER__ https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
+2. __NER CT__ https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+3. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+4. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+5. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+6. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
+7. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+8. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+9. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
+
+# State of Art AI Models to Watch for Visualization of Big Data
+---
+1. __TimeSeries__ https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
+2. __Big Science Search__ https://huggingface.co/spaces/bigscience-data/roots-search
+3. __Bloom__ https://huggingface.co/spaces/bigscience/bloom-book
